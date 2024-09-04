@@ -22,10 +22,10 @@ Below are the instructions for this assignment. Your repository should automatic
 
 ### 📝 TODO: Complete this section
 
-* **Your name and PID**:
+* **Your name and PID**: Sidney Fredericks, sidneyf25
 
-* **Your partner's name and PID:**
+* **Your partner's name and PID:** Linley Spangler, linleys39
 
-* **Link to selected coding challenge:**
+* **Link to selected coding challenge:** https://leetcode.com/problems/removing-stars-from-a-string/?envType=study-plan-v2&envId=leetcode-75 
 
-* **Summary of partner's interview feedback:**
+* **Summary of partner's interview feedback:** Good problem solving and determination as well as creative way of solving the problem, remember the basics and use the most effective data structure. 
